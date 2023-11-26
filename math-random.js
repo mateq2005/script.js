@@ -1,7 +1,6 @@
 //Math.random() returns a random number between 0 (inclusive),  and 1 (exclusive):
 Math.random();
 
-
 //// Returns a random integer from 0 to 9:
 Math.floor(Math.random() * 10);
 

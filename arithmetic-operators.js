@@ -1,40 +1,56 @@
-//Adding
-let x1 = 5;
-let y1 = 2;
-let z1 = x1 + y1;
+{
+    //Adding
+    let x = 5;
+    let y = 2;
+    let z = x + y;
+}
 
-//Subtracting
-let x2 = 5;
-let y2 = 2;
-let z2 = x2 - y2;
+{
+    //Subtracting
+    let x = 5;
+    let y = 2;
+    let z = x - y;
+}
 
-//Multiplying
-let x3 = 5;
-let y3 = 2;
-let z3 = x3 * y3;
+{
+    //Multiplying
+    let x = 5;
+    let y = 2;
+    let z = x * y;
+}
 
-//Dividing
-let x4 = 5;
-let y4 = 2;
-let z4 = x4 / y4;
+{
+    //Dividing
+    let x = 5;
+    let y = 2;
+    let z = x / y;
+}
 
-//Remainder
-let x5 = 5;
-let y5 = 2;
-let z5 = x5 % y5;
+{
+    //Remainder
+    let x = 5;
+    let y = 2;
+    let z = x % y;
+}
 
-//Incrementing
-let x6 = 5;
-x6++;
-let z6 = x6;
+{
+    //Incrementing
+    let x = 5;
+    x++;
+    let z = x;
+}
 
+{
+    //Decrementing
+    let x = 5;
+    x--;
+    let z = x;
+}
 
-//Decrementing
-let x7 = 5;
-x7--;
-let z7 = x7;
+{
+    //Exponentiation
+    let x = 5;
+    let y = x ** 2;
+    let z = Math.pow(x,2);
+}
 
-//Exponentiation
-let x = 5;
-let z8 = x ** 2;
-let z9 = Math.pow(x,2);

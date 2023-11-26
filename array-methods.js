@@ -1,3 +1,4 @@
+//Declaring the array
 const fruits = [
     'Banana',
     'Orange',
@@ -18,7 +19,6 @@ fruits.pop();
 //Array push() method adds a new element to an array (at the end)
 fruits.push('Kiwi');
 
-
 //Array shift() method removes the first array element and "shifts" all other elements to a lower index
 fruits.shift();
 
@@ -36,6 +36,7 @@ const newArr = myArr.flat();
 
 //Array splice()
 fruits.splice(2, 0, "Lemon", "Kiwi");
+
 /*
 The first parameter (2) defines the position where new elements should be added (spliced in).
 The second parameter (0) defines how many elements should be removed.
