@@ -1,1 +1,1 @@
-https://github.com/mateq2005/script.js/tree/main/projects/clock/
+https://mateq2005.github.io/script.js/projects/clock/
