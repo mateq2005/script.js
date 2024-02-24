@@ -3,7 +3,7 @@ message: "If you use this software, please cite it as below."
 authors:
   - github: https://github.com/mateq2005
     orcid: none
-title: "portfolio"
+title: "script.js"
 version: 1.0.0
 identifiers:
   - type: URL
