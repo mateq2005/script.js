@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Events</title>
+</head>
+<body>
+
+    <button onclick="document.getElementById('demo1').innerHTML = Date()">
+        The time is?
+    </button>
+    <div id="demo1">
+        <!--Mon Nov 13 2023 17:38:16 GMT+0100 (czas środkowoeuropejski standardowy)-->
+    </div>
+
+    <hr>
+
+    <button onclick="this.innerHTML = Date()">
+        The time is?
+    </button>
+
+    <hr>
+
+    <button onclick="displayDate()">
+        The time is?
+    </button>
+
+    <script>
+        function displayDate() {
+          document.getElementById("demo2").innerHTML = Date();
+        }
+    </script>
+
+    <div id="demo2"></div>
+
+</body>
+</html>

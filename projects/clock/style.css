@@ -1,0 +1,82 @@
+html {
+
+    scroll-behavior: smooth;
+
+}
+  
+* {
+
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+
+body {
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgba(0, 0, 0, 0.95);
+    color: white;
+
+}
+
+main {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+
+    width: 100vw;
+    height: 100vh;
+
+    padding: 5px;
+
+}
+
+#time {
+
+    text-align: center;
+    text-shadow: 1px 1px 1px white;
+    font-size: 12vw;
+
+}
+
+#date {
+
+    text-align: center;
+    text-shadow: 1px 1px 1px white;
+    font-size: 12vw;
+
+}
+
+footer {
+
+    text-align: center;
+    text-shadow: 1px 1px 1px white;
+    font-size: 1vw;
+
+}
+
+footer a {
+
+    color: white;
+    text-decoration: none;
+
+}
+
+@media only screen and (max-width: 600px) {
+
+    #time {
+        font-size: 4em;
+    }
+
+    
+    #date {
+        font-size: 3em;
+    }
+
+    footer {
+        font-size: 1em;
+    }
+
+}

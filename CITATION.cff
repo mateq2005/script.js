@@ -1,0 +1,11 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+  - github: https://github.com/mateq2005
+    orcid: none
+title: "portfolio"
+version: 1.0.0
+identifiers:
+  - type: URL
+    value: https://github.com/mateq2005/script.js
+date-released: 2024-02-24
