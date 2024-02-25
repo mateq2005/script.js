@@ -6,8 +6,8 @@
 
 ## Folders
 
-- **[resources](resources)**
-- **[projects](projects)**
+- [resources](resources)
+- [projects](projects)
 
 ## License
 
