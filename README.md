@@ -1,7 +1,5 @@
 # JavaScript Learning Resources Repository
 
-Welcome to our JavaScript Learning Resources repository! 🚀
-
 ## Overview
 
 > Discover a rich collection of JavaScript code examples and educational materials, perfect for beginners and intermediate learners in web development. Enhance your JavaScript skills with insights and practical examples.
